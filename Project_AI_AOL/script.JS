@@ -32,7 +32,7 @@ const skinProblems = {
                 tips: "Hindari produk yang terlalu rich atau creamy, dan jangan lupa double cleansing di malam hari, Ceramide  adalah asam lemak yang terdapat secara alami dalam kulit dan dapat membantu menjaga kesehatan kulit berminyak."
             }
         ]
-    },
+   },
     "kulit sensitif": {
         keywords: ["sensitif", "merah", "iritasi", "gatal", "perih"],
         responses: [
@@ -68,7 +68,7 @@ const skinProblems = {
         ]
     }
 };
-
+ 
 function formatResponse(response) {
     const sections = response.split('\n\n');
     let formattedResponse = '';
