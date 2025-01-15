@@ -29,7 +29,7 @@ const skinProblems = {
                     "4. Gunakan sunscreen yang ringan dan non-comedogenic",
                     "5. Pertimbangkan penggunaan clay mask 1-2 kali seminggu"
                 ],
-                tips: "Hindari produk yang terlalu rich atau creamy, dan jangan lupa double cleansing di malam hari, Ceramide  adalah asam lemak yang terdapat secara alami dalam kulit dan dapat membantu menjaga kesehatan kulit berminyak."
+                tips: "Hindari produk yang terlalu rich atau creamy, dan jangan lupa double cleansing di malam hari, Ceramide dapat menjadi pilihan anda yang dapat membantu menjaga kesehatan kulit berminyak."
             }
         ]
    },
@@ -46,7 +46,7 @@ const skinProblems = {
                     "4. Gunakan moisturizer yang minimal ingredients",
                     "5. Pakai sunscreen mineral/physical (zinc oxide/titanium dioxide)"
                 ],
-                tips: "Selalu patch test produk baru dan hindari eksfoliasi yang terlalu keras, Salicylic acid adalah jenis asam beta-hidroksi, Salicylic acid bekerja dengan cara mengangkat sel-sel kulit mati yang menyumbat pori-pori. Dengan begitu, pori-pori kulit terbuka dan jerawat bisa dicegah."
+                tips: "Selalu patch test produk baru dan hindari eksfoliasi yang terlalu keras, Salicylic acid bekerja dengan cara mengangkat sel-sel kulit mati yang menyumbat pori-pori. Dengan begitu, pori-pori kulit terbuka dan jerawat bisa dicegah."
             }
         ]
     },
@@ -63,7 +63,7 @@ const skinProblems = {
                     "4. Jangan lupa gunakan sunscreen setiap hari",
                     "5. Pertimbangkan penggunaan produk dengan niacinamide"
                 ],
-                tips: "Hindari memencet jerawat dan jaga kebersihan wajah serta barang-barang yang bersentuhan dengan wajah seperti handuk dan sarung bantal,Nicotinamide atau niacinamide yang dapat membantu meredakan kemerahan dan iritasi pada kulit sensitif."
+                tips: "Hindari memencet jerawat dan jaga kebersihan wajah serta barang-barang yang bersentuhan dengan wajah seperti handuk dan sarung bantal, Nicotinamide yang dapat membantu meredakan kemerahan dan iritasi pada kulit sensitif."
             }
         ]
     }
