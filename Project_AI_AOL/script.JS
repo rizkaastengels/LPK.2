@@ -12,7 +12,7 @@ const skinProblems = {
                     "4. Lindungi kulit dengan sunscreen di siang hari",
                     "5. Pertimbangkan untuk menggunakan facial oil di malam hari"
                 ],
-                tips: "Pastikan untuk minum cukup air dan hindari mandi dengan air terlalu panas karena bisa memperparah kulit kering."
+                tips: "Pastikan po untuk minum cukup air dan hindari mandi dengan air terlalu panas karena bisa memperparah kulit kering."
             }
         ]
     },
