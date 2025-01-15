@@ -63,8 +63,7 @@ const skinProblems = {
                     "4. Jangan lupa gunakan sunscreen setiap hari",
                     "5. Pertimbangkan penggunaan produk dengan niacinamide"
                 ],
-                tips: "Hindari memencet jerawat dan jaga kebersihan wajah serta barang-barang yang bersentuhan dengan wajah seperti handuk dan sarung bantal,Nicotinamide atau niacinamide adalah zat turunan dari vitamin B3 yang dapat membantu meredakan kemerahan dan iritasi pada kulit sensitif
-."
+                tips: "Hindari memencet jerawat dan jaga kebersihan wajah serta barang-barang yang bersentuhan dengan wajah seperti handuk dan sarung bantal,Nicotinamide atau niacinamide yang dapat membantu meredakan kemerahan dan iritasi pada kulit sensitif."
             }
         ]
     }
