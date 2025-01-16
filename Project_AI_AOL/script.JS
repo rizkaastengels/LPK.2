@@ -46,7 +46,7 @@ const skinProblems = {
                     "4. Gunakan moisturizer yang minimal ingredients",
                     "5. Pakai sunscreen mineral/physical (zinc oxide/titanium dioxide)"
                 ],
-                tips: "Selalu patch test produk baru dan hindari eksfoliasi yang terlalu keras, Salicylic acid bekerja dengan cara mengangkat sel-sel kulit mati yang menyumbat pori-pori. Dengan begitu, pori-pori kulit terbuka dan jerawat bisa dicegah."
+                tips: "Selalu patch test produk baru dan hindari eksfoliasi yang terlalu keras, Ceramide dapat menjadi pilihan anda yang dapat membantu menjaga kesehatan kulit berminyak.."
             }
         ]
     },
